@@ -1,1 +1,1 @@
-# TS_study
+# This repository is a studyuing TypeScript space.
